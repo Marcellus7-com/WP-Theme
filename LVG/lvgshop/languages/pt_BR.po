@@ -1,0 +1,1942 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LVG Shop by M7 1.4.2\n"
+"Report-Msgid-Bugs-To: https://ia.marcellus7.com/\n"
+"POT-Creation-Date: 2024-04-25 21:54+0600\n"
+"PO-Revision-Date: 2026-05-25 00:00+0000\n"
+"Last-Translator: Indigo Agency by M7 <hello@ia.marcellus7.com>\n"
+"Language-Team: Portugues do Brasil\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: build-po.js\n"
+
+msgid "Oops.... Page Not Found!"
+msgstr "Ops.... Página não encontrada!"
+
+msgid "Please return to the sites homepage, It looks like nothing was found at this location"
+msgstr "Volte à página inicial do site. Parece que nada foi encontrado neste local"
+
+msgid "Back to Home"
+msgstr "Voltar ao início"
+
+msgid "Comments"
+msgstr "Comentários"
+
+msgid "Comment navigation"
+msgstr "Navegação de comentários"
+
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentários anteriores"
+
+msgid "Newer Comments &rarr;"
+msgstr "Comentários mais recentes &rarr;"
+
+msgid "Add a Review"
+msgstr "Adicionar uma avaliação"
+
+msgid "<p class=\"mb-4 comment_title_reply_after\">Your email address will not be published. Required fields are marked*</p>"
+msgstr "<p class=\"mb-4 comment_title_reply_after\">Seu endereço de e-mail não será publicado. Os campos obrigatórios estão marcados com *</p>"
+
+msgid "Leave a Reply to %s"
+msgstr "Deixe uma resposta para %s"
+
+msgid "Cancel Reply"
+msgstr "Cancelar resposta"
+
+msgid "Post Comment"
+msgstr "Publicar comentário"
+
+msgid "Write Your Comment...."
+msgstr "Escreva seu comentário...."
+
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr "Você precisa estar <a href=\"%s\">conectado</a> para publicar um comentário"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Conectado como <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Sair desta conta\">Sair?</a>"
+
+msgid "Your Name"
+msgstr "Seu nome"
+
+msgid "Your Email"
+msgstr "Seu e-mail"
+
+msgid "Write a Comment"
+msgstr "Escreva um comentário"
+
+msgid "Website"
+msgstr "Site"
+
+msgid "Let us know what you have to say:"
+msgstr "Conte-nos o que você tem a dizer:"
+
+msgid "Express your thoughts, idea or write a feedback by clicking here & start an awesome comment"
+msgstr "Expresse seus pensamentos, ideias ou escreva um feedback clicando aqui e comece um ótimo comentário"
+
+msgid "Please Post Your Comments & Reviews"
+msgstr "Publique seus comentários e avaliações"
+
+msgid "Comments are closed."
+msgstr "Os comentários estão encerrados."
+
+msgid "Store Open"
+msgstr "Loja aberta"
+
+msgid "Store Closed"
+msgstr "Loja fechada"
+
+msgid "No products were found of this seller!"
+msgstr "Nenhum produto foi encontrado deste vendedor!"
+
+msgid "Main Menu"
+msgstr "Menu principal"
+
+msgid "Mobile Menu"
+msgstr "Menu mobile"
+
+msgid "Vertical Menu"
+msgstr "Menu vertical"
+
+msgid "Mobile Category Menu"
+msgstr "Menu de categorias mobile"
+
+msgid "Account Menu"
+msgstr "Menu da conta"
+
+msgid "Small"
+msgstr "Pequeno"
+
+msgid "S"
+msgstr "P"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "M"
+msgstr "M"
+
+msgid "Large"
+msgstr "Grande"
+
+msgid "L"
+msgstr "G"
+
+msgid "Huge"
+msgstr "Enorme"
+
+msgid "XL"
+msgstr "GG"
+
+msgid "Light gray"
+msgstr "Cinza claro"
+
+msgid "Medium gray"
+msgstr "Cinza médio"
+
+msgid "Dark gray"
+msgstr "Cinza escuro"
+
+msgid "Purple"
+msgstr "Roxo"
+
+msgid "Dark Blue"
+msgstr "Azul escuro"
+
+msgid "Red"
+msgstr "Vermelho"
+
+msgid "Yellow"
+msgstr "Amarelo"
+
+msgid "Green"
+msgstr "Verde"
+
+msgid "White"
+msgstr "Branco"
+
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+msgid "Add widgets here."
+msgstr "Adicione widgets aqui."
+
+msgid "Woo Archive"
+msgstr "Arquivo Woo"
+
+msgid "Case Study Sidebar"
+msgstr "Barra lateral de estudo de caso"
+
+msgid "Header Language Bar"
+msgstr "Barra de idioma do cabeçalho"
+
+msgid "Add Language Code here."
+msgstr "Adicione o código do idioma aqui."
+
+msgid "Header Currency"
+msgstr "Moeda do cabeçalho"
+
+msgid "Add Currency here."
+msgstr "Adicione a moeda aqui."
+
+msgid "Footer About / Newsletter One"
+msgstr "Rodapé Sobre / Newsletter Um"
+
+msgid "Footer Userful Links"
+msgstr "Links úteis do rodapé"
+
+msgid "Footer Userful Links Two"
+msgstr "Links úteis do rodapé Dois"
+
+msgid "Footer Userful Links Three"
+msgstr "Links úteis do rodapé Três"
+
+msgid "Footer About / Newsletter Two"
+msgstr "Rodapé Sobre / Newsletter Dois"
+
+msgid "Footer Instagram Gallery"
+msgstr "Galeria do Instagram no rodapé"
+
+msgid "Welcome"
+msgstr "Bem-vindo"
+
+msgid "Install Required Plugins"
+msgstr "Instalar plugins necessários"
+
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+msgid "Installing Plugin: %s"
+msgstr "Instalando plugin: %s"
+
+msgid "Updating Plugin: %s"
+msgstr "Atualizando plugin: %s"
+
+msgid "Something went wrong with the plugin API."
+msgstr "Algo deu errado com a API do plugin."
+
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requer o seguinte plugin: %1$s."
+msgstr[1] "Este tema requer os seguintes plugins: %1$s."
+
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomenda o seguinte plugin: %1$s."
+msgstr[1] "Este tema recomenda os seguintes plugins: %1$s."
+
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "O seguinte plugin precisa ser atualizado para a versão mais recente a fim de garantir a máxima compatibilidade com este tema: %1$s."
+msgstr[1] "Os seguintes plugins precisam ser atualizados para a versão mais recente a fim de garantir a máxima compatibilidade com este tema: %1$s."
+
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Há uma atualização disponível para: %1$s."
+msgstr[1] "Há atualizações disponíveis para os seguintes plugins: %1$s."
+
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "O seguinte plugin necessário está atualmente inativo: %1$s."
+msgstr[1] "Os seguintes plugins necessários estão atualmente inativos: %1$s."
+
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "O seguinte plugin recomendado está atualmente inativo: %1$s."
+msgstr[1] "Os seguintes plugins recomendados estão atualmente inativos: %1$s."
+
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Começar a instalar o plugin"
+msgstr[1] "Começar a instalar os plugins"
+
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Começar a atualizar o plugin"
+msgstr[1] "Começar a atualizar os plugins"
+
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Começar a ativar o plugin"
+msgstr[1] "Começar a ativar os plugins"
+
+msgid "Return to Required Plugins Installer"
+msgstr "Voltar ao instalador de plugins necessários"
+
+msgid "Return to the Dashboard"
+msgstr "Voltar ao painel"
+
+msgid "Plugin activated successfully."
+msgstr "Plugin ativado com sucesso."
+
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "O seguinte plugin foi ativado com sucesso:"
+msgstr[1] "Os seguintes plugins foram ativados com sucesso:"
+
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nenhuma ação tomada. O plugin %1$s já estava ativo."
+
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin não ativado. Uma versão superior de %s é necessária para este tema. Atualize o plugin."
+
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos os plugins foram instalados e ativados com sucesso. %1$s"
+
+msgid "Dismiss this notice"
+msgstr "Dispensar este aviso"
+
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Há um ou mais plugins necessários ou recomendados para instalar, atualizar ou ativar."
+
+msgid "Please contact the administrator of this site for help."
+msgstr "Entre em contato com o administrador deste site para obter ajuda."
+
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin precisa ser atualizado para ser compatível com o seu tema."
+
+msgid "Update Required"
+msgstr "Atualização necessária"
+
+msgid "Set the parent_slug config variable instead."
+msgstr "Defina a variável de configuração parent_slug em vez disso."
+
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "O pacote remoto do plugin não contém uma pasta com o slug desejado e a renomeação não funcionou."
+
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Entre em contato com o fornecedor do plugin e peça que empacotem o plugin de acordo com as diretrizes do WordPress."
+
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "O pacote remoto do plugin consiste em mais de um arquivo, mas os arquivos não estão empacotados em uma pasta."
+
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "e"
+
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+msgid "Required"
+msgstr "Necessário"
+
+msgid "Recommended"
+msgstr "Recomendado"
+
+msgid "WordPress Repository"
+msgstr "Repositório do WordPress"
+
+msgid "External Source"
+msgstr "Fonte externa"
+
+msgid "Pre-Packaged"
+msgstr "Pré-empacotado"
+
+msgid "Not Installed"
+msgstr "Não instalado"
+
+msgid "Installed But Not Activated"
+msgstr "Instalado, mas não ativado"
+
+msgid "Active"
+msgstr "Ativo"
+
+msgid "Required Update not Available"
+msgstr "Atualização necessária não disponível"
+
+msgid "Requires Update"
+msgstr "Requer atualização"
+
+msgid "Update recommended"
+msgstr "Atualização recomendada"
+
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todos <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Atualização disponível <span class=\"count\">(%s)</span>"
+msgstr[1] "Atualização disponível <span class=\"count\">(%s)</span>"
+
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para ativar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para ativar <span class=\"count\">(%s)</span>"
+
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconhecida"
+
+msgid "Installed version:"
+msgstr "Versão instalada:"
+
+msgid "Minimum required version:"
+msgstr "Versão mínima necessária:"
+
+msgid "Available version:"
+msgstr "Versão disponível:"
+
+msgid "No plugins to install, update or activate."
+msgstr "Nenhum plugin para instalar, atualizar ou ativar."
+
+msgid "Plugin"
+msgstr "Plugin"
+
+msgid "Source"
+msgstr "Fonte"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Version"
+msgstr "Versão"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+msgid "Update %2$s"
+msgstr "Atualizar %2$s"
+
+msgid "Activate %2$s"
+msgstr "Ativar %2$s"
+
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensagem de atualização do autor do plugin:"
+
+msgid "Install"
+msgstr "Instalar"
+
+msgid "Update"
+msgstr "Atualizar"
+
+msgid "Activate"
+msgstr "Ativar"
+
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Nenhum plugin foi selecionado para instalação. Nenhuma ação tomada."
+
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Nenhum plugin foi selecionado para atualização. Nenhuma ação tomada."
+
+msgid "No plugins are available to be installed at this time."
+msgstr "Nenhum plugin está disponível para instalação no momento."
+
+msgid "No plugins are available to be updated at this time."
+msgstr "Nenhum plugin está disponível para atualização no momento."
+
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Nenhum plugin foi selecionado para ativação. Nenhuma ação tomada."
+
+msgid "No plugins are available to be activated at this time."
+msgstr "Nenhum plugin está disponível para ativação no momento."
+
+msgid "Plugin activation failed."
+msgstr "Falha na ativação do plugin."
+
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Atualizando plugin %1$s (%2$d/%3$d)"
+
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocorreu um erro ao instalar %1$s: <strong>%2$s</strong>."
+
+msgid "The installation of %1$s failed."
+msgstr "A instalação de %1$s falhou."
+
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "O processo de instalação e ativação está começando. Esse processo pode demorar em alguns servidores, então tenha paciência."
+
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado e ativado com sucesso."
+
+msgid "Show Details"
+msgstr "Mostrar detalhes"
+
+msgid "Hide Details"
+msgstr "Ocultar detalhes"
+
+msgid "All installations and activations have been completed."
+msgstr "Todas as instalações e ativações foram concluídas."
+
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando e ativando plugin %1$s (%2$d/%3$d)"
+
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "O processo de instalação está começando. Esse processo pode demorar em alguns servidores, então tenha paciência."
+
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado com sucesso."
+
+msgid "All installations have been completed."
+msgstr "Todas as instalações foram concluídas."
+
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando plugin %1$s (%2$d/%3$d)"
+
+msgid "Welcome to LVG Shop by M7"
+msgstr "Bem-vindo ao LVG Shop by M7"
+
+msgid "LVG Shop by M7 theme is now installed and ready to use!"
+msgstr "O tema LVG Shop by M7 está instalado e pronto para uso!"
+
+msgid "LVG Shop by M7 Admin Logo"
+msgstr "Logo de administração do LVG Shop by M7"
+
+msgid "Theme Options"
+msgstr "Opções do tema"
+
+msgid "Demo Import"
+msgstr "Importação de demonstração"
+
+msgid "Before you get started, please be sure to always check out documentation Which Included In the theme folder or from <a href=\"https://docs.ia.marcellus7.com/tecdocs/lvgshop-electronics-gadgets-store-woocommerce-theme/\" target=\"_blank\">Website</a>. We outline all kinds of good information and provide you with all the details you need to use lvgshop."
+msgstr "Antes de começar, não deixe de conferir a documentação incluída na pasta do tema ou no <a href=\"https://docs.ia.marcellus7.com/tecdocs/lvgshop-electronics-gadgets-store-woocommerce-theme/\" target=\"_blank\">site</a>. Reunimos todo tipo de informação útil e fornecemos todos os detalhes de que você precisa para usar o lvgshop."
+
+msgid "If you are unable to find your answer in our documentation, please contact us via  <a href=\"https://ia.marcellus7.com/\" target=\"_blank\">submit a ticket</a> with your purchase code, site CPanel, and admin login info."
+msgstr "Se você não encontrar sua resposta em nossa documentação, entre em contato conosco <a href=\"https://ia.marcellus7.com/\" target=\"_blank\">abrindo um chamado</a> com seu código de compra, o cPanel do site e os dados de login de administrador."
+
+msgid "We are very happy to help you and you will get the reply from us  faster than you expected."
+msgstr "Teremos o maior prazer em ajudar e você receberá nossa resposta mais rápido do que espera."
+
+msgid "Note: Please Install All Required Plugins Before Install Demo !"
+msgstr "Observação: instale todos os plugins necessários antes de importar a demonstração!"
+
+msgid "Thank you for using"
+msgstr "Obrigado por usar"
+
+msgid "LVG Shop by M7"
+msgstr "LVG Shop by M7"
+
+msgid "theme!"
+msgstr "tema!"
+
+msgid "Powered by"
+msgstr "Desenvolvido por"
+
+msgid "Indigo Agency by M7"
+msgstr "Indigo Agency by M7"
+
+msgid "Install Location:"
+msgstr "Local de instalação:"
+
+msgid "Standard"
+msgstr "Padrão"
+
+msgid "Non-standard"
+msgstr "Não padrão"
+
+msgid "Using %s Theme from non-standard install location or having a different directory name could lead to issues in receiving and installing updates. Please make sure that theme folder name is <strong>%s</strong>, without spaces."
+msgstr "Usar o tema %s a partir de um local de instalação não padrão ou com um nome de diretório diferente pode causar problemas para receber e instalar atualizações. Certifique-se de que o nome da pasta do tema seja <strong>%s</strong>, sem espaços."
+
+msgid "File System Accessible:"
+msgstr "Sistema de arquivos acessível:"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Theme has no direct access to the file system. Therefore plugins and pre-made websites installation is not possible to work properly.<br>Please try to insert the following code: <code>define( \"FS_METHOD\", \"direct\" );</code><br>before <code>/* That's all, stop editing! Happy blogging. */</code> in <code>wp-config.php</code>."
+msgstr "O tema não tem acesso direto ao sistema de arquivos. Portanto, a instalação de plugins e de sites pré-montados não funcionará corretamente.<br>Tente inserir o seguinte código: <code>define( \"FS_METHOD\", \"direct\" );</code><br>antes de <code>/* That's all, stop editing! Happy blogging. */</code> no <code>wp-config.php</code>."
+
+msgid "Uploads Folder Writable:"
+msgstr "Pasta de uploads gravável:"
+
+msgid "Uploads folder must be writable to allow WordPress function properly.<br>See <a href=\"https://codex.wordpress.org/Changing_File_Permissions\" target=\"_blank\">changing file permissions</a> or contact your hosting provider."
+msgstr "A pasta de uploads precisa ter permissão de escrita para o WordPress funcionar corretamente.<br>Consulte <a href=\"https://codex.wordpress.org/Changing_File_Permissions\" target=\"_blank\">como alterar permissões de arquivo</a> ou entre em contato com seu provedor de hospedagem."
+
+msgid "ZipArchive Support:"
+msgstr "Suporte a ZipArchive:"
+
+msgid "ZipArchive is required for plugins installation and pre-made websites import.<br>Please contact your hosting provider."
+msgstr "O ZipArchive é necessário para a instalação de plugins e a importação de sites pré-montados.<br>Entre em contato com seu provedor de hospedagem."
+
+msgid "PHP Version:"
+msgstr "Versão do PHP:"
+
+msgid "Current version is sufficient. However <strong>v.7.3.0</strong> or greater is recommended to improve the performance."
+msgstr "A versão atual é suficiente. No entanto, recomenda-se a <strong>v.7.3.0</strong> ou superior para melhorar o desempenho."
+
+msgid "Current version is sufficient."
+msgstr "A versão atual é suficiente."
+
+msgid "PHP Max Input Vars:"
+msgstr "PHP Max Input Vars:"
+
+msgid "Minimum value is <strong>1000</strong>. <strong>2000</strong> is recommended. <strong>3000</strong> or more may be required if lots of plugins are in use and/or you have a large amount of menu items."
+msgstr "O valor mínimo é <strong>1000</strong>. Recomenda-se <strong>2000</strong>. <strong>3000</strong> ou mais pode ser necessário se muitos plugins estiverem em uso e/ou você tiver muitos itens de menu."
+
+msgid "Current limit is sufficient for most tasks. <strong>2000</strong> is recommended. <strong>3000</strong> or more may be required if lots of plugins are in use and/or you have a large amount of menu items."
+msgstr "O limite atual é suficiente para a maioria das tarefas. Recomenda-se <strong>2000</strong>. <strong>3000</strong> ou mais pode ser necessário se muitos plugins estiverem em uso e/ou você tiver muitos itens de menu."
+
+msgid "Current limit is sufficient. However, up to <strong>3000</strong> or more may be required if lots of plugins are in use and/or you have a large amount of menu items."
+msgstr "O limite atual é suficiente. No entanto, até <strong>3000</strong> ou mais pode ser necessário se muitos plugins estiverem em uso e/ou você tiver muitos itens de menu."
+
+msgid "Current limit is sufficient."
+msgstr "O limite atual é suficiente."
+
+msgid "WP Memory Limit:"
+msgstr "Limite de memória do WP:"
+
+msgid "<br><small>See <a href=\"%1$s\" target=\"_blank\">increasing memory allocated to PHP</a> or contact your hosting provider.</small>"
+msgstr "<br><small>Consulte <a href=\"%1$s\" target=\"_blank\">como aumentar a memória alocada para o PHP</a> ou entre em contato com seu provedor de hospedagem.</small>"
+
+msgid "Minimum value is <strong>64 MB</strong>. <strong>128 MB</strong> is recommended. <strong>256 MB</strong> or more may be required if lots of plugins are in use and/or you want to install the London Demo."
+msgstr "O valor mínimo é <strong>64 MB</strong>. Recomenda-se <strong>128 MB</strong>. <strong>256 MB</strong> ou mais pode ser necessário se muitos plugins estiverem em uso e/ou você quiser instalar a London Demo."
+
+msgid "Current memory limit is sufficient for most tasks. However, recommended value is <strong>128 MB</strong>. <strong>256 MB</strong> or more may be required if lots of plugins are in use and/or you want to install the London Demo."
+msgstr "O limite de memória atual é suficiente para a maioria das tarefas. No entanto, o valor recomendado é <strong>128 MB</strong>. <strong>256 MB</strong> ou mais pode ser necessário se muitos plugins estiverem em uso e/ou você quiser instalar a London Demo."
+
+msgid "Current memory limit is sufficient. However, <strong>256 MB</strong> or more may be required if lots of plugins are in use and/or you want to install the London Demo."
+msgstr "O limite de memória atual é suficiente. No entanto, <strong>256 MB</strong> ou mais pode ser necessário se muitos plugins estiverem em uso e/ou você quiser instalar a London Demo."
+
+msgid "Current memory limit is sufficient."
+msgstr "O limite de memória atual é suficiente."
+
+msgid "PHP Time Limit:"
+msgstr "Limite de tempo do PHP:"
+
+msgid "<br><small>See <a href=\"%1$s\" target=\"_blank\">increasing max PHP execution time</a> or contact your hosting provider.</small>"
+msgstr "<br><small>Consulte <a href=\"%1$s\" target=\"_blank\">como aumentar o tempo máximo de execução do PHP</a> ou entre em contato com seu provedor de hospedagem.</small>"
+
+msgid "Minimum value is <strong>300</strong>. <strong>600</strong> is recommended."
+msgstr "O valor mínimo é <strong>300</strong>. Recomenda-se <strong>600</strong>."
+
+msgid "Current time limit is sufficient, however <strong>600</strong> is recommended."
+msgstr "O limite de tempo atual é suficiente, no entanto recomenda-se <strong>600</strong>."
+
+msgid "Current time limit should be sufficient."
+msgstr "O limite de tempo atual deve ser suficiente."
+
+msgctxt "Time limit status."
+msgid "unlimited"
+msgstr "ilimitado"
+
+msgid "Current time limit is sufficient."
+msgstr "O limite de tempo atual é suficiente."
+
+msgid "Zlib Output Compression:"
+msgstr "Compressão de saída Zlib:"
+
+msgid "On"
+msgstr "Ativado"
+
+msgid "zlib.output_compression is problematic and throws errors most of the time in WordPress. Make sure to <a href=\"%s\" target=\"_blank\">disable it</a>."
+msgstr "O zlib.output_compression é problemático e gera erros na maioria das vezes no WordPress. Certifique-se de <a href=\"%s\" target=\"_blank\">desativá-lo</a>."
+
+msgid "Off"
+msgstr "Desativado"
+
+msgid "Theme Name"
+msgstr "Nome do tema"
+
+msgid "Author Name"
+msgstr "Nome do autor"
+
+msgid "Current Version"
+msgstr "Versão atual"
+
+msgid "Text Domain"
+msgstr "Domínio de texto"
+
+msgid "Child Theme"
+msgstr "Tema filho"
+
+msgid "Something went wrong. Please refresh the page and try again!"
+msgstr "Algo deu errado. Atualize a página e tente novamente!"
+
+msgid "Please define default parameters in the form of an array."
+msgstr "Defina os parâmetros padrão na forma de um array."
+
+msgid "Please define an SVG icon filename."
+msgstr "Defina um nome de arquivo de ícone SVG."
+
+msgid "Child"
+msgstr "Filho"
+
+msgid "License"
+msgstr "Licença"
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "Content"
+msgstr "Conteúdo"
+
+msgid "Ready"
+msgstr "Pronto"
+
+msgid "The welcome step has been displayed"
+msgstr "A etapa de boas-vindas foi exibida"
+
+msgid "The license activation step has been displayed"
+msgstr "A etapa de ativação da licença foi exibida"
+
+msgid "The child theme installation step has been displayed"
+msgstr "A etapa de instalação do tema filho foi exibida"
+
+msgid "The plugin installation step has been displayed"
+msgstr "A etapa de instalação de plugins foi exibida"
+
+msgid "WP Memory Limit"
+msgstr "Limite de memória do WP"
+
+msgid "Select Demo"
+msgstr "Selecionar demonstração"
+
+msgid "The content import step has been displayed"
+msgstr "A etapa de importação de conteúdo foi exibida"
+
+msgid "The final step has been displayed"
+msgstr "A etapa final foi exibida"
+
+msgid "The existing child theme was activated"
+msgstr "O tema filho existente foi ativado"
+
+msgid "The newly generated child theme was activated"
+msgstr "O tema filho recém-gerado foi ativado"
+
+msgid "Yikes! The theme activation failed. Please try again or contact support."
+msgstr "Ops! A ativação do tema falhou. Tente novamente ou entre em contato com o suporte."
+
+msgid "Please add your license key before attempting to activate one."
+msgstr "Adicione sua chave de licença antes de tentar ativá-la."
+
+msgid "The license activation was performed with the following results"
+msgstr "A ativação da licença foi realizada com os seguintes resultados"
+
+msgid "An error occurred, please try again."
+msgstr "Ocorreu um erro, tente novamente."
+
+msgid "Your license key expired on %s."
+msgstr "Sua chave de licença expirou em %s."
+
+msgid "Your license key has been disabled."
+msgstr "Sua chave de licença foi desativada."
+
+msgid "This appears to be an invalid license key. Please try again or contact support."
+msgstr "Esta parece ser uma chave de licença inválida. Tente novamente ou entre em contato com o suporte."
+
+msgid "Your license is not active for this URL."
+msgstr "Sua licença não está ativa para esta URL."
+
+msgid "This appears to be an invalid license key for %s."
+msgstr "Esta parece ser uma chave de licença inválida para %s."
+
+msgid "Your license key has reached its activation limit."
+msgstr "Sua chave de licença atingiu o limite de ativações."
+
+msgid "The child theme functions.php content was generated"
+msgstr "O conteúdo do functions.php do tema filho foi gerado"
+
+msgid "The child theme style.css content was generated"
+msgstr "O conteúdo do style.css do tema filho foi gerado"
+
+msgid "The child theme screenshot was copied to the child theme, with the following result"
+msgstr "A captura de tela do tema filho foi copiada para o tema filho, com o seguinte resultado"
+
+msgid "The child theme screenshot was not generated, because of these results"
+msgstr "A captura de tela do tema filho não foi gerada, devido a estes resultados"
+
+msgid "Activating"
+msgstr "Ativando"
+
+msgid "Updating"
+msgstr "Atualizando"
+
+msgid "Installing"
+msgstr "Instalando"
+
+msgid "A plugin with the following data will be processed"
+msgstr "Um plugin com os seguintes dados será processado"
+
+msgid "A plugin with the following data was processed"
+msgstr "Um plugin com os seguintes dados foi processado"
+
+msgid "Success"
+msgstr "Sucesso"
+
+msgid "The content importer AJAX call failed to start, because of incorrect data"
+msgstr "A chamada AJAX do importador de conteúdo não iniciou, devido a dados incorretos"
+
+msgid "Invalid content!"
+msgstr "Conteúdo inválido!"
+
+msgid "The content import AJAX call will be executed with this import data"
+msgstr "A chamada AJAX de importação de conteúdo será executada com estes dados de importação"
+
+msgid "The content import AJAX call failed with this passed data"
+msgstr "A chamada AJAX de importação de conteúdo falhou com estes dados enviados"
+
+msgid "Error"
+msgstr "Erro"
+
+msgid "The content importer AJAX call for retrieving total content import items failed to start, because of incorrect data."
+msgstr "A chamada AJAX do importador de conteúdo para obter o total de itens de importação não iniciou, devido a dados incorretos."
+
+msgid "Invalid data!"
+msgstr "Dados inválidos!"
+
+msgid "Demo content data."
+msgstr "Dados de conteúdo da demonstração."
+
+msgid "Pending"
+msgstr "Pendente"
+
+msgid "Widgets"
+msgstr "Widgets"
+
+msgid "Sample widgets data."
+msgstr "Dados de exemplo de widgets."
+
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+msgid "Sample Revolution sliders data."
+msgstr "Dados de exemplo do Revolution Slider."
+
+msgid "Options"
+msgstr "Opções"
+
+msgid "Sample theme options data."
+msgstr "Dados de exemplo das opções do tema."
+
+msgid "Redux Options"
+msgstr "Redux Options"
+
+msgid "Redux framework options."
+msgstr "Opções do framework Redux."
+
+msgid "CSF Framework Options."
+msgstr "Opções do framework CSF."
+
+msgid "After import setup"
+msgstr "Configuração pós-importação"
+
+msgid "After import setup."
+msgstr "Configuração pós-importação."
+
+msgid "The revolution slider import was executed"
+msgstr "A importação do Revolution Slider foi executada"
+
+msgid "The home page was set"
+msgstr "A página inicial foi definida"
+
+msgid "The blog page was set"
+msgstr "A página do blog foi definida"
+
+msgid "The Hello world post status was set to draft"
+msgstr "O status do post \"Olá, mundo\" foi definido como rascunho"
+
+msgid "This predefined demo import does not have the name parameter: import_file_name"
+msgstr "Esta importação de demonstração predefinida não tem o parâmetro de nome: import_file_name"
+
+msgid "The CSF Framework data was imported"
+msgstr "Os dados do framework CSF foram importados"
+
+msgid "The customizer import has finished successfully"
+msgstr "A importação do personalizador foi concluída com sucesso"
+
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr "Erro: o arquivo de importação do personalizador está faltando! Caminho do arquivo: %s"
+
+msgid "Error: The customizer import file does not have any content in it. Please make sure to use the correct customizer import file."
+msgstr "Erro: o arquivo de importação do personalizador não tem nenhum conteúdo. Certifique-se de usar o arquivo de importação correto do personalizador."
+
+msgid "Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file."
+msgstr "Erro: o arquivo de importação do personalizador não está em um formato correto. Certifique-se de usar o arquivo de importação correto do personalizador."
+
+msgid "Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme."
+msgstr "Erro: o arquivo de importação do personalizador não é adequado para o tema atual. Você só pode importar configurações do personalizador para o mesmo tema ou um tema filho."
+
+msgid "The file was not able to save to disk, while trying to download it"
+msgstr "Não foi possível salvar o arquivo no disco ao tentar baixá-lo"
+
+msgid "Missing URL for downloading a file!"
+msgstr "URL ausente para baixar um arquivo!"
+
+msgid "An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - %6$s."
+msgstr "Ocorreu um erro ao buscar o arquivo de: %1$s%2$s%3$s!%4$sMotivo: %5$s - %6$s."
+
+msgid "The Redux Framework data was imported"
+msgstr "Os dados do Redux Framework foram importados"
+
+msgid "Error: Widget import file could not be found."
+msgstr "Erro: não foi possível encontrar o arquivo de importação de widgets."
+
+msgid "Error: Widget import file does not have any content in it."
+msgstr "Erro: o arquivo de importação de widgets não tem nenhum conteúdo."
+
+msgid "Error: Widget import data could not be read. Please try a different file."
+msgstr "Erro: não foi possível ler os dados de importação de widgets. Tente um arquivo diferente."
+
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr "A barra lateral não existe no tema (movendo o widget para Inativo)"
+
+msgid "Site does not support widget"
+msgstr "O site não oferece suporte ao widget"
+
+msgid "Widget already exists"
+msgstr "O widget já existe"
+
+msgid "Imported"
+msgstr "Importado"
+
+msgid "Imported to Inactive"
+msgstr "Importado para Inativo"
+
+msgid "No Title"
+msgstr "Sem título"
+
+msgid "No results for widget import!"
+msgstr "Nenhum resultado para a importação de widgets!"
+
+msgid "Setup Wizard"
+msgstr "Assistente de configuração"
+
+msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+msgstr "%1$s%2$s Temas &lsaquo; Configuração do tema: %3$s%4$s"
+
+msgid "Return to the dashboard"
+msgstr "Voltar ao painel"
+
+msgid "Disable this wizard"
+msgstr "Desativar este assistente"
+
+msgid "Skip"
+msgstr "Pular"
+
+msgid "Next"
+msgstr "Próximo"
+
+msgid "Start"
+msgstr "Iniciar"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "Later"
+msgstr "Mais tarde"
+
+msgid "Activate Theme"
+msgstr "Ativar tema"
+
+msgid "Activate Your Theme"
+msgstr "Ative seu tema"
+
+msgid "%s is Activated"
+msgstr "%s está ativado"
+
+msgid "Please add your Envato purchase code along with your email address to confirm the purchase."
+msgstr "Adicione seu código de compra da Envato junto com seu endereço de e-mail para confirmar a compra."
+
+msgid "License key"
+msgstr "Chave de licença"
+
+msgid "The theme is already registered, so you can go to the next step!"
+msgstr "O tema já está registrado, então você pode ir para a próxima etapa!"
+
+msgid "Your theme is activated! Remote updates and theme support are enabled."
+msgstr "Seu tema está ativado! Atualizações remotas e suporte ao tema estão habilitados."
+
+msgid "Need help?"
+msgstr "Precisa de ajuda?"
+
+msgid "Let's Get You Started"
+msgstr "Vamos começar"
+
+msgid "Hi. Welcome back"
+msgstr "Olá. Bem-vindo de volta"
+
+msgid "Thanks for purchasing LVG Shop by M7! Start wizard to generate child theme, intstall plugins and import demo date."
+msgstr "Obrigado por adquirir o LVG Shop by M7! Inicie o assistente para gerar o tema filho, instalar plugins e importar os dados de demonstração."
+
+msgid "You may have already run this theme setup wizard. If you would like to proceed anyway, click on the \"Start\" button below."
+msgstr "Você já pode ter executado este assistente de configuração do tema. Se quiser continuar mesmo assim, clique no botão \"Iniciar\" abaixo."
+
+msgid "Install Child Theme"
+msgstr "Instalar tema filho"
+
+msgid "You're good to go!"
+msgstr "Tudo pronto!"
+
+msgid "Let's build & activate a child theme so you may easily make theme changes."
+msgstr "Vamos criar e ativar um tema filho para que você possa fazer alterações no tema com facilidade."
+
+msgid "Your child theme has already been installed and is now activated, if it wasn't already."
+msgstr "Seu tema filho já foi instalado e agora está ativado, caso ainda não estivesse."
+
+msgid "Learn about child themes"
+msgstr "Saiba mais sobre temas filhos"
+
+msgid "Awesome. Your child theme has already been installed and is now activated."
+msgstr "Ótimo. Seu tema filho já foi instalado e agora está ativado."
+
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr "Ótimo. Seu tema filho foi criado e agora está ativado."
+
+msgid "You're up to speed!"
+msgstr "Você está em dia!"
+
+msgid "Let's install some essential WordPress plugins to get you started."
+msgstr "Vamos instalar alguns plugins essenciais do WordPress para você começar."
+
+msgid "The required WordPress plugins are all installed and up to date. Press \"Next\" to continue the setup wizard."
+msgstr "Todos os plugins necessários do WordPress estão instalados e atualizados. Pressione \"Próximo\" para continuar o assistente de configuração."
+
+msgid "View Plugins"
+msgstr "Ver plugins"
+
+msgid "Import Demo"
+msgstr "Importar demonstração"
+
+msgid "Let's import content to your website, to help you get familiar with the theme."
+msgstr "Vamos importar conteúdo para o seu site, para ajudá-lo a se familiarizar com o tema."
+
+msgid "Advanced"
+msgstr "Avançado"
+
+msgid "You're Ready!"
+msgstr "Você está pronto!"
+
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr "Seu tema foi totalmente configurado. Aproveite seu novo tema da %s."
+
+msgid "Extras"
+msgstr "Extras"
+
+msgid "View your website"
+msgstr "Ver seu site"
+
+msgid "Help center"
+msgstr "Central de ajuda"
+
+msgid "Youtube"
+msgstr "YouTube"
+
+msgid "Start Customizing"
+msgstr "Começar a personalizar"
+
+msgid "Before Setup Demo Please Install All Plugin Requireds.Intall Elementor as Page Builder.For Import You Need to wait 3-5 Mintues."
+msgstr "Antes de configurar a demonstração, instale todos os plugins necessários. Instale o Elementor como construtor de páginas. Para a importação, aguarde de 3 a 5 minutos."
+
+msgid "The XMLReader class is missing! Please install the XMLReader PHP extension on your server"
+msgstr "A classe XMLReader está faltando! Instale a extensão PHP XMLReader no seu servidor"
+
+msgid "Could not open the XML file for parsing!"
+msgstr "Não foi possível abrir o arquivo XML para análise!"
+
+msgid "Content import start error: "
+msgstr "Erro ao iniciar a importação de conteúdo: "
+
+msgid "This WXR file (version %s) is newer than the importer (version %s) and may not be supported. Please consider updating."
+msgstr "Este arquivo WXR (versão %s) é mais novo que o importador (versão %s) e pode não ser compatível. Considere atualizar."
+
+msgid "New AJAX call!"
+msgstr "Nova chamada AJAX!"
+
+msgid "Could not open the file for parsing"
+msgstr "Não foi possível abrir o arquivo para análise"
+
+msgid "The file does not exist, please try again."
+msgstr "O arquivo não existe, tente novamente."
+
+msgid "Invalid author mapping"
+msgstr "Mapeamento de autor inválido"
+
+msgid "Cannot import auto-draft posts"
+msgstr "Não é possível importar posts de rascunho automático"
+
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr "Falha ao importar \"%s\": tipo de post inválido %s"
+
+msgid "%s \"%s\" already exists."
+msgstr "%s \"%s\" já existe."
+
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr "Ignorando anexo \"%s\", busca de anexos desativada"
+
+msgid "Failed to import \"%s\" (%s)"
+msgstr "Falha ao importar \"%s\" (%s)"
+
+msgid "Imported \"%s\" (%s)"
+msgstr "Importado \"%s\" (%s)"
+
+msgid "Post %d remapped to %d"
+msgstr "Post %d remapeado para %d"
+
+msgid "Failed to import term: %s - %s"
+msgstr "Falha ao importar o termo: %s - %s"
+
+msgid "Invalid file type"
+msgstr "Tipo de arquivo inválido"
+
+msgid "Failed to import user \"%s\""
+msgstr "Falha ao importar o usuário \"%s\""
+
+msgid "Imported user \"%s\""
+msgstr "Usuário \"%s\" importado"
+
+msgid "User %d remapped to %d"
+msgstr "Usuário %d remapeado para %d"
+
+msgid "Failed to import %s %s"
+msgstr "Falha ao importar %s %s"
+
+msgid "Term %d remapped to %d"
+msgstr "Termo %d remapeado para %d"
+
+msgid "Failed to add metakey: %s, metavalue: %s to term_id: %d"
+msgstr "Falha ao adicionar metakey: %s, metavalue: %s ao term_id: %d"
+
+msgid "Meta for term_id %d : %s => %s ; successfully added!"
+msgstr "Meta para o term_id %d : %s => %s ; adicionada com sucesso!"
+
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr "O servidor remoto retornou %1$d %2$s para %3$s"
+
+msgid "Zero size file downloaded"
+msgstr "Arquivo de tamanho zero baixado"
+
+msgid "Remote file is too large, limit is %s"
+msgstr "O arquivo remoto é muito grande, o limite é %s"
+
+msgid "Running post-processing for post %d"
+msgstr "Executando pós-processamento para o post %d"
+
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr "Não foi possível encontrar o post pai de \"%s\" (post #%d)"
+
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr "O post %d foi importado com o pai %d, mas não foi possível encontrá-lo"
+
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr "Não foi possível encontrar o autor de \"%s\" (post #%d)"
+
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr "O post %d foi importado com o autor \"%s\", mas não foi possível encontrá-lo"
+
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr "O post %d foi marcado para pós-processamento, mas nenhum foi necessário."
+
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr "Não foi possível atualizar \"%s\" (post #%d) com os dados mapeados"
+
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr "Não foi possível encontrar o objeto de menu de \"%s\" (post #%d)"
+
+msgid "Post %d was imported with object \"%d\" of type \"%s\", but could not be found"
+msgstr "O post %d foi importado com o objeto \"%d\" do tipo \"%s\", mas não foi possível encontrá-lo"
+
+msgid "Could not find the comment parent for comment #%d"
+msgstr "Não foi possível encontrar o comentário pai do comentário #%d"
+
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr "O comentário %d foi importado com o pai %d, mas não foi possível encontrá-lo"
+
+msgid "Could not find the author for comment #%d"
+msgstr "Não foi possível encontrar o autor do comentário #%d"
+
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr "O comentário %d foi importado com o autor %d, mas não foi possível encontrá-lo"
+
+msgid "Could not update comment #%d with mapped data"
+msgstr "Não foi possível atualizar o comentário #%d com os dados mapeados"
+
+msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+msgstr "term_id inválido fornecido no array de termos a serem remapeados %s"
+
+msgid "No taxonomy provided in terms-to-be-remapped array for term #%d"
+msgstr "Nenhuma taxonomia fornecida no array de termos a serem remapeados para o termo #%d"
+
+msgid "No parent_slug identified in remapping-array for term: %d"
+msgstr "Nenhum parent_slug identificado no array de remapeamento para o termo: %d"
+
+msgid "The term(%d)\"s parent_slug (%s) is not found in the remapping-array."
+msgstr "O termo (%d) tem um parent_slug (%s) que não foi encontrado no array de remapeamento."
+
+msgid "No data returned by get_term_by for term_id #%d"
+msgstr "Nenhum dado retornado por get_term_by para o term_id #%d"
+
+msgid "Could not update \"%s\" (term #%d) with mapped data"
+msgstr "Não foi possível atualizar \"%s\" (termo #%d) com os dados mapeados"
+
+msgid "Term %d was successfully updated with parent %d"
+msgstr "O termo %d foi atualizado com sucesso com o pai %d"
+
+msgid "Starting remapping of featured images"
+msgstr "Iniciando o remapeamento das imagens destacadas"
+
+msgid "Remapping featured image ID %d to new ID %d for post ID %d"
+msgstr "Remapeando a imagem destacada ID %d para o novo ID %d do post ID %d"
+
+msgid "Custom Field Pro"
+msgstr "Custom Field Pro"
+
+msgid "Elementor"
+msgstr "Elementor"
+
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+msgid "SB Instagram Feed"
+msgstr "SB Instagram Feed"
+
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+msgid "Filter Eeverything"
+msgstr "Filter Eeverything"
+
+msgid "Add a menu"
+msgstr "Adicionar um menu"
+
+msgid "Our Blog"
+msgstr "Nosso blog"
+
+msgid "Home"
+msgstr "Início"
+
+msgid "<span>Category</span> <span class=\"bredcrumb-separator\">/</span> "
+msgstr "<span>Categoria</span> <span class=\"bredcrumb-separator\">/</span> "
+
+msgid "<span>Tag</span> <span class=\"bredcrumb-separator\">/</span> "
+msgstr "<span>Tag</span> <span class=\"bredcrumb-separator\">/</span> "
+
+msgid "<span>Author</span>"
+msgstr "<span>Autor</span>"
+
+msgid "<span>Day</span>"
+msgstr "<span>Dia</span>"
+
+msgid "Error 404"
+msgstr "Erro 404"
+
+msgid "You have added the item to your shopping cart!"
+msgstr "Você adicionou o item ao seu carrinho de compras!"
+
+msgid "Pingback:"
+msgstr "Pingback:"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%1$s at %2$s"
+msgstr "%1$s às %2$s"
+
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário está aguardando moderação."
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgctxt "Jost: on or off"
+msgid "on"
+msgstr "on"
+
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+msgid " "
+msgstr " "
+
+msgid "%1$s"
+msgstr "%1$s"
+
+msgctxt "list item separator"
+msgid " "
+msgstr " "
+
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deixe um comentário<span class=\"screen-reader-text\"> em %s</span>"
+
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+msgid "Return to shop"
+msgstr "Voltar à loja"
+
+msgid "Shipping to %s."
+msgstr "Envio para %s."
+
+msgid "Change address"
+msgstr "Alterar endereço"
+
+msgid "Shipping options will be updated during checkout."
+msgstr "As opções de envio serão atualizadas durante a finalização da compra."
+
+msgid "Enter your address to view shipping options."
+msgstr "Informe seu endereço para ver as opções de envio."
+
+msgid "There are no shipping options available. Please ensure that your address has been entered correctly, or contact us if you need any help."
+msgstr "Não há opções de envio disponíveis. Verifique se o seu endereço foi inserido corretamente ou entre em contato conosco se precisar de ajuda."
+
+msgid "No shipping options were found for %s."
+msgstr "Nenhuma opção de envio foi encontrada para %s."
+
+msgid "Enter a different address"
+msgstr "Informe um endereço diferente"
+
+msgid "Cart totals"
+msgstr "Totais do carrinho"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "Shipping"
+msgstr "Envio"
+
+msgid "(estimated for %s)"
+msgstr "(estimado para %s)"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Product"
+msgstr "Produto"
+
+msgid "Available on backorder"
+msgstr "Disponível sob encomenda"
+
+msgid "Price"
+msgstr "Preço"
+
+msgid "Quantity"
+msgstr "Quantidade"
+
+msgid "Remove this item"
+msgstr "Remover este item"
+
+msgid "Remove"
+msgstr "Remover"
+
+msgid "Update cart"
+msgstr "Atualizar carrinho"
+
+msgid "Coupon"
+msgstr "Cupom"
+
+msgid "Coupon code"
+msgstr "Código do cupom"
+
+msgid "Apply coupon"
+msgstr "Aplicar cupom"
+
+msgid "You may be interested in&hellip;"
+msgstr "Você pode se interessar por&hellip;"
+
+msgid "No products in the cart."
+msgstr "Nenhum produto no carrinho."
+
+msgid "Proceed to checkout"
+msgstr "Finalizar compra"
+
+msgid "Calculate shipping"
+msgstr "Calcular envio"
+
+msgid "Select a country&hellip;"
+msgstr "Selecione um país&hellip;"
+
+msgid "State / County"
+msgstr "Estado"
+
+msgid "Select an option&hellip;"
+msgstr "Selecione uma opção&hellip;"
+
+msgid "City"
+msgstr "Cidade"
+
+msgid "Postcode / ZIP"
+msgstr "CEP"
+
+msgid "There are some issues with the items in your cart. Please go back to the cart page and resolve these issues before checking out."
+msgstr "Há alguns problemas com os itens do seu carrinho. Volte à página do carrinho e resolva esses problemas antes de finalizar a compra."
+
+msgid "Return to cart"
+msgstr "Voltar ao carrinho"
+
+msgid "Billing &amp; Shipping"
+msgstr "Cobrança e envio"
+
+msgid "Billing details"
+msgstr "Detalhes de cobrança"
+
+msgid "Create an account?"
+msgstr "Criar uma conta?"
+
+msgid "You must be logged in to checkout."
+msgstr "Você precisa estar conectado para finalizar a compra."
+
+msgid "Your order"
+msgstr "Seu pedido"
+
+msgid "Have a coupon?"
+msgstr "Tem um cupom?"
+
+msgid "Click here to enter your code"
+msgstr "Clique aqui para inserir seu código"
+
+msgid "If you have a coupon code, please apply it below."
+msgstr "Se você tiver um código de cupom, aplique-o abaixo."
+
+msgid "Returning customer?"
+msgstr "Já é cliente?"
+
+msgid "Click here to login"
+msgstr "Clique aqui para entrar"
+
+msgid "If you have shopped with us before, please enter your details below. If you are a new customer, please proceed to the Billing section."
+msgstr "Se você já comprou conosco antes, informe seus dados abaixo. Se você é um novo cliente, prossiga para a seção de Cobrança."
+
+msgid "Qty"
+msgstr "Qtd"
+
+msgid "Totals"
+msgstr "Totais"
+
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "Desculpe, parece que não há métodos de pagamento disponíveis para a sua localização. Entre em contato conosco se precisar de ajuda ou quiser fazer outros arranjos."
+
+msgid "Ship to a different address?"
+msgstr "Enviar para um endereço diferente?"
+
+msgid "Additional information"
+msgstr "Informações adicionais"
+
+msgid "Order number:"
+msgstr "Número do pedido:"
+
+msgid "Date:"
+msgstr "Data:"
+
+msgid "Total:"
+msgstr "Total:"
+
+msgid "Payment method:"
+msgstr "Forma de pagamento:"
+
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "Desculpe, parece que não há métodos de pagamento disponíveis para o seu estado. Entre em contato conosco se precisar de ajuda ou quiser fazer outros arranjos."
+
+msgid "Please fill in your details above to see available payment methods."
+msgstr "Preencha seus dados acima para ver os métodos de pagamento disponíveis."
+
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr "Como seu navegador não suporta JavaScript, ou ele está desativado, certifique-se de clicar no botão %1$sAtualizar totais%2$s antes de fazer o pedido. Você pode ser cobrado por um valor maior do que o indicado acima se não fizer isso."
+
+msgid "Update totals"
+msgstr "Atualizar totais"
+
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr "Infelizmente seu pedido não pôde ser processado, pois o banco/estabelecimento de origem recusou sua transação. Tente realizar a compra novamente."
+
+msgid "Pay"
+msgstr "Pagar"
+
+msgid "My account"
+msgstr "Minha conta"
+
+msgid "Thank you. Your order has been received."
+msgstr "Obrigado. Seu pedido foi recebido."
+
+msgid "Email:"
+msgstr "E-mail:"
+
+msgid "Avaiable :"
+msgstr "Disponível:"
+
+msgid "Min price"
+msgstr "Preço mín."
+
+msgid "Max price"
+msgstr "Preço máx."
+
+msgid "Filter"
+msgstr "Filtrar"
+
+msgid "Price:"
+msgstr "Preço:"
+
+msgid "by %s"
+msgstr "por %s"
+
+msgid "Username or email"
+msgstr "Nome de usuário ou e-mail"
+
+msgid "Password"
+msgstr "Senha"
+
+msgid "Remember me"
+msgstr "Lembrar de mim"
+
+msgid "Login"
+msgstr "Entrar"
+
+msgid "Lost your password?"
+msgstr "Esqueceu sua senha?"
+
+msgid "%s quantity"
+msgstr "Quantidade de %s"
+
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Qtd"
+
+msgid "No products were found matching your selection."
+msgstr "Nenhum produto foi encontrado correspondente à sua seleção."
+
+msgid "Shop order"
+msgstr "Ordenação da loja"
+
+msgid "Showing the single result"
+msgstr "Mostrando o único resultado"
+
+msgid "Showing all %d result"
+msgid_plural "Showing all %d results"
+msgstr[0] "Mostrando %d resultado"
+msgstr[1] "Mostrando todos os %d resultados"
+
+msgctxt "with first and last result"
+msgid "Showing %1$d&ndash;%2$d of %3$d result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] "Mostrando %1$d&ndash;%2$d de %3$d resultado"
+msgstr[1] "Mostrando %1$d&ndash;%2$d de %3$d resultados"
+
+msgid "Sale"
+msgstr "Promoção"
+
+msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Log out</a>)"
+msgstr "Olá %1$s (não é %1$s? <a href=\"%2$s\">Sair</a>)"
+
+msgid "From your account dashboard you can view your <a href=\"%1$s\">recent orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a>, and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr "No painel da sua conta, você pode ver seus <a href=\"%1$s\">pedidos recentes</a>, gerenciar seus <a href=\"%2$s\">endereços de envio e cobrança</a> e <a href=\"%3$s\">editar sua senha e os detalhes da conta</a>."
+
+msgid "Browse products"
+msgstr "Ver produtos"
+
+msgid "No downloads available yet."
+msgstr "Nenhum download disponível ainda."
+
+msgid "Add payment method"
+msgstr "Adicionar forma de pagamento"
+
+msgid "New payment methods can only be added during checkout. Please contact us if you require assistance."
+msgstr "Novas formas de pagamento só podem ser adicionadas durante a finalização da compra. Entre em contato conosco se precisar de ajuda."
+
+msgid "First name"
+msgstr "Nome"
+
+msgid "Last name"
+msgstr "Sobrenome"
+
+msgid "Display name"
+msgstr "Nome de exibição"
+
+msgid "This will be how your name will be displayed in the account section and in reviews"
+msgstr "É assim que seu nome será exibido na seção da conta e nas avaliações"
+
+msgid "Email address"
+msgstr "Endereço de e-mail"
+
+msgid "Password change"
+msgstr "Alteração de senha"
+
+msgid "Current password (leave blank to leave unchanged)"
+msgstr "Senha atual (deixe em branco para manter inalterada)"
+
+msgid "New password (leave blank to leave unchanged)"
+msgstr "Nova senha (deixe em branco para manter inalterada)"
+
+msgid "Confirm new password"
+msgstr "Confirme a nova senha"
+
+msgid "Save changes"
+msgstr "Salvar alterações"
+
+msgid "Billing address"
+msgstr "Endereço de cobrança"
+
+msgid "Shipping address"
+msgstr "Endereço de envio"
+
+msgid "Save address"
+msgstr "Salvar endereço"
+
+msgid "Username or email address"
+msgstr "Nome de usuário ou endereço de e-mail"
+
+msgid "Log in"
+msgstr "Entrar"
+
+msgid "Register"
+msgstr "Cadastrar"
+
+msgid "Username"
+msgstr "Nome de usuário"
+
+msgid "A password will be sent to your email address."
+msgstr "Uma senha será enviada para o seu endereço de e-mail."
+
+msgid "Create an Account"
+msgstr "Criar uma conta"
+
+msgid "New Here? Create an Account"
+msgstr "Novo por aqui? Crie uma conta"
+
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "Esqueceu sua senha? Informe seu nome de usuário ou endereço de e-mail. Você receberá por e-mail um link para criar uma nova senha."
+
+msgid "Reset password"
+msgstr "Redefinir senha"
+
+msgid "Enter a new password below."
+msgstr "Insira uma nova senha abaixo."
+
+msgid "New password"
+msgstr "Nova senha"
+
+msgid "Re-enter new password"
+msgstr "Digite a nova senha novamente"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Password reset email has been sent."
+msgstr "O e-mail de redefinição de senha foi enviado."
+
+msgid "A password reset email has been sent to the email address on file for your account, but may take several minutes to show up in your inbox. Please wait at least 10 minutes before attempting another reset."
+msgstr "Um e-mail de redefinição de senha foi enviado para o endereço de e-mail cadastrado na sua conta, mas pode levar alguns minutos para chegar à sua caixa de entrada. Aguarde pelo menos 10 minutos antes de tentar outra redefinição."
+
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "Os endereços a seguir serão usados por padrão na página de finalização da compra."
+
+msgid "Add"
+msgstr "Adicionar"
+
+msgid "You have not set up this type of address yet."
+msgstr "Você ainda não configurou este tipo de endereço."
+
+msgid "Order"
+msgstr "Pedido"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Recent orders"
+msgstr "Pedidos recentes"
+
+msgctxt "hash before order number"
+msgid "#"
+msgstr "#"
+
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] "%1$s por %2$s item"
+msgstr[1] "%1$s por %2$s itens"
+
+msgid "No order has been made yet."
+msgstr "Nenhum pedido foi feito ainda."
+
+msgid "%1$s ending in %2$s"
+msgstr "%1$s terminando em %2$s"
+
+msgid "No saved methods found."
+msgstr "Nenhum método salvo encontrado."
+
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr "O pedido #%1$s foi feito em %2$s e está atualmente %3$s."
+
+msgid "Order updates"
+msgstr "Atualizações do pedido"
+
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr "l, j \\d\\e F \\d\\e Y, H:i"
+
+msgid "Enter Order Id"
+msgstr "Informe o ID do pedido"
+
+msgid "Enter Email Address"
+msgstr "Informe o endereço de e-mail"
+
+msgid "Track Order"
+msgstr "Rastrear pedido"
+
+msgid "Order again"
+msgstr "Comprar novamente"
+
+msgid "N/A"
+msgstr "N/D"
+
+msgid "Order details"
+msgstr "Detalhes do pedido"
+
+msgid "Note:"
+msgstr "Observação:"
+
+msgid "Downloads"
+msgstr "Downloads"
+
+msgid "&infin;"
+msgstr "&infin;"
+
+msgid "Never"
+msgstr "Nunca"
+
+msgid "Search for:"
+msgstr "Buscar por:"
+
+msgid "Search products&hellip;"
+msgstr "Buscar produtos&hellip;"
+
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+msgid "%s reviews"
+msgstr "%s avaliações"
+
+msgid "There are no reviews yet."
+msgstr "Ainda não há avaliações."
+
+msgid "Add a review"
+msgstr "Adicionar uma avaliação"
+
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Seja o primeiro a avaliar &ldquo;%s&rdquo;"
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "Your rating"
+msgstr "Sua avaliação"
+
+msgid "Rate&hellip;"
+msgstr "Avalie&hellip;"
+
+msgid "Perfect"
+msgstr "Perfeito"
+
+msgid "Good"
+msgstr "Bom"
+
+msgid "Average"
+msgstr "Razoável"
+
+msgid "Not that bad"
+msgstr "Não tão ruim"
+
+msgid "Very poor"
+msgstr "Muito ruim"
+
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr "Você precisa estar %1$sconectado%2$s para publicar uma avaliação."
+
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr "Apenas clientes conectados que compraram este produto podem deixar uma avaliação."
+
+msgid "This product is currently out of stock and unavailable."
+msgstr "Este produto está atualmente fora de estoque e indisponível."
+
+msgid "Clear"
+msgstr "Limpar"
+
+msgid "Sorry, this product is unavailable. Please choose a different combination."
+msgstr "Desculpe, este produto está indisponível. Escolha uma combinação diferente."
+
+msgid "SKU:"
+msgstr "SKU:"
+
+msgid "Category:</span>"
+msgid_plural "Categories: </span>"
+msgstr[0] "Categoria:</span>"
+msgstr[1] "Categorias: </span>"
+
+msgid "Tag: </span>"
+msgid_plural "Tags: </span>"
+msgstr[0] "Tag: </span>"
+msgstr[1] "Tags: </span>"
+
+msgid "Close (Esc)"
+msgstr "Fechar (Esc)"
+
+msgid "Share"
+msgstr "Compartilhar"
+
+msgid "Toggle fullscreen"
+msgstr "Alternar tela cheia"
+
+msgid "Zoom in/out"
+msgstr "Ampliar/reduzir"
+
+msgid "Previous (arrow left)"
+msgstr "Anterior (seta esquerda)"
+
+msgid "Next (arrow right)"
+msgstr "Próximo (seta direita)"
+
+msgid "Out of stock"
+msgstr "Fora de estoque"
+
+msgid "Awaiting product image"
+msgstr "Aguardando imagem do produto"
+
+msgid "(%s Customer review)"
+msgid_plural "(%s Customer reviews)"
+msgstr[0] "(%s avaliação de cliente)"
+msgstr[1] "(%s avaliações de clientes)"
+
+msgid "Your review is awaiting approval"
+msgstr "Sua avaliação está aguardando aprovação"
+
+msgid "verified owner"
+msgstr "comprador verificado"
+
+msgid "Sale!"
+msgstr "Promoção!"
+
+msgid "You may also like&hellip;"
+msgstr "Você também pode gostar&hellip;"
+
+msgid "View your shopping cart"
+msgstr "Ver seu carrinho de compras"
+
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d item"
+msgstr[1] "%d itens"
+
+msgid "Compare"
+msgstr "Comparar"
+
+msgid "View product"
+msgstr "Ver produto"
+
+msgid "out of 5"
+msgstr "de 5"
+
+msgid "Your cart is currently empty"
+msgstr "Seu carrinho está vazio no momento"
+
+msgid "Unit Price: "
+msgstr "Preço unitário: "
+
+msgid "Subtotal : "
+msgstr "Subtotal: "
+
+msgid "View Cart"
+msgstr "Ver carrinho"
+
+msgid "Checkout"
+msgstr "Finalizar compra"
+
+msgid "Search Results for: %s"
+msgstr "Resultados da busca por: %s"
+
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+msgid "Pages:"
+msgstr "Páginas:"
+
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar seu primeiro post? <a href=\"%1$s\">Comece aqui</a>."
+
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Desculpe, mas nada correspondeu aos seus termos de busca. Tente novamente com palavras-chave diferentes."
+
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que não conseguimos encontrar o que você procura. Talvez uma busca possa ajudar."
+
+msgid "read now"
+msgstr "ler agora"
+
+msgid "by"
+msgstr "por"
+
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continuar lendo<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+msgid "We Accept :"
+msgstr "Aceitamos:"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Hello"
+msgstr "Olá"
+
+msgid "Sign in"
+msgstr "Entrar"
+
+msgid "account"
+msgstr "conta"
+
+msgid "My Account"
+msgstr "Minha conta"
+
+msgid "Login / Register"
+msgstr "Entrar / Cadastrar"
+
+msgid "Wishlist"
+msgstr "Lista de desejos"
+
+msgid "My Items"
+msgstr "Meus itens"
+
+msgid "Your Cart "
+msgstr "Seu carrinho "
+
+msgid "menu"
+msgstr "menu"
+
+msgid "categories"
+msgstr "categorias"
+
+msgid "http://ia.marcellus7.com/"
+msgstr "http://ia.marcellus7.com/"
+
+msgid "A Multipurpose LVG Shop by M7 Theme"
+msgstr "Um tema multipropósito LVG Shop by M7"
+
+msgid "https://ia.marcellus7.com/about"
+msgstr "https://ia.marcellus7.com/about"
+
+msgid "Theme Full Width Template"
+msgstr "Modelo de tema em largura total"
+
